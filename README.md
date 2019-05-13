@@ -6,6 +6,7 @@
 - Click Add Copy of Source.
 - Select *newTB.v* file from the folder it is in.
 - Select **Simulation** from *View*, placed on the panel *Design*.
+- Right click and remove the older testbench file.
 - Select *newTB* from the *Hierarchy* and double click **Simulate Behavioural Model** under *ISim Simulator*.
 - You can see your result at the bottom.
 
